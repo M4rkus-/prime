@@ -1,4 +1,4 @@
-def choose_polynomial(n):
+def choose_polynomial(n,x):
     # Wählen Sie eine Siebgleichung, die für die Faktorisierung von n geeignet ist
     # Beispiel: Wählen Sie ein Polynom 3. Grades
     a = 3
